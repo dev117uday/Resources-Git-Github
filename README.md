@@ -1,7 +1,7 @@
 
 # Resources Git and Github
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 :wave: Hi, This is my open sourced roadmap/resource guide for Git. Please feel free to add resources or fix the broken links to make this repo more worthful.
@@ -67,6 +67,10 @@ Links to Labs where you can have a addons practise using GitHub
 - [Google Git Course Coursera](https://www.youtube.com/watch?v=PtBr0fpKyFg)
 - [How to Undo Mistakes With Git Using the Command Line](https://www.youtube.com/watch?v=lX9hsdsAeTk)
 
+## 🌍 Open Source
+- [Guide to Open Source](https://www.youtube.com/watch?v=yzeVMecydCE&ab_channel=freeCodeCamp.orgfreeCodeCamp.org)
+- [Contributing to Open Source for the first time](https://www.youtube.com/watch?v=c6b6B9oN4Vg&ab_channel=AnujBhaiyaAnujBhaiyaVerified)
+
 ## 🎧 Conference Talks
 - [Core Git](https://www.youtube.com/watch?v=8dhZ9BXQgc4)
 - [Google Tech Talk: Linus Torvalds on git](https://www.youtube.com/watch?v=4XpnKHJAok8)
@@ -80,7 +84,10 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- markdownlint-disable -->
 <table>
   <tr>
-    <td align="center"><a href="https://uday-yadav.web.app/"><img src="https://avatars.githubusercontent.com/u/49728410?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Uday Yadav</b></sub></a><br /><a href="#tutorial-dev117uday" title="Tutorials">✅</a> <a href="#maintenance-dev117uday" title="Maintenance">🚧</a></td>
+
+    <td align="center"><a href="https://uday-yadav.web.app/"><img src="https://avatars.githubusercontent.com/u/49728410?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Uday Yadav</b></sub></a><br /> <a href="#maintenance-dev117uday" title="Maintenance">🚧</a></td>
+    <td align="center"><a href="http://atharv.jairath@gmail.com"><img src="https://avatars.githubusercontent.com/u/54663702?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Atharv jairath</b></sub></a><br /><a href="#maintenance-atharvjairath" title="Maintenance">🚧</a></td>
+
   </tr>
 </table>
 

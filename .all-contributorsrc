@@ -14,6 +14,15 @@
         "tutorial",
         "maintenance"
       ]
+    },
+    {
+      "login": "atharvjairath",
+      "name": "Atharv jairath",
+      "avatar_url": "https://avatars.githubusercontent.com/u/54663702?v=4",
+      "profile": "http://atharv.jairath@gmail.com",
+      "contributions": [
+        "maintenance"
+      ]
     }
   ],
   "contributorsPerLine": 7,
