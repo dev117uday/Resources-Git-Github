@@ -1,10 +1,10 @@
-# Resources Git and Github
+# 📑 Resources Git and Github
 
 :wave: Hi, This is my open sourced roadmap/resource guide for Git. Please feel free to add resources or fix the broken links to make this repo more worthful.
 
 _Apply For GitHub Education Pack : [Click Here](https://education.github.com/pack)_
 
-## :computer: Installation
+## 💻 Installation
 
 - [Official Website](https://git-scm.com/)
 - [Windows Installer](https://git-scm.com/downloads)
@@ -16,7 +16,7 @@ _Apply For GitHub Education Pack : [Click Here](https://education.github.com/pac
   - Debain based distro : `sudo apt-get install git`
   - Fedora based distro : `sudo yum install git`
 
-## Basic Configurations 
+## 💬 Basic Configurations 
 ```sh
 $ git config --global user.name "Your Name" 
 $ git config --global user.email "youremail@yourorg.domain" 
@@ -28,7 +28,7 @@ $ git config --global core.editor "code"
 // for Micro : "micro"
 ```
 
-## :baby: Introduction to Git Must Go
+## 🐥 Introduction to Git Must Go
 
 - [Introduction to Git & GitHub](https://www.youtube.com/watch?v=vR-y_2zWrIE&list=PLWKjhJtqVAbkFiqHnNaxpOPhh9tSWMXIF)
 - [Git vs. GitHub: What's the difference?](https://www.youtube.com/watch?v=wpISo9TNjfU)
@@ -43,7 +43,7 @@ $ git config --global core.editor "code"
 - [Rebasing](https://www.youtube.com/watch?v=PBtApBmgc1M&list=PLWKjhJtqVAbkFiqHnNaxpOPhh9tSWMXIF&index=10)
 - [Undoing Commits](https://www.youtube.com/watch?v=XiFYShmnI4k&list=PLWKjhJtqVAbkFiqHnNaxpOPhh9tSWMXIF&index=11)
 
-## GitHub Practical Hands On
+## 🔨 GitHub Practical Hands On
 Links to Labs where you can have a addons practise using GitHub
 
 - [First Day on GitHub](https://lab.github.com/githubtraining/first-day-on-github)
@@ -58,11 +58,11 @@ Links to Labs where you can have a addons practise using GitHub
 - [Create an open source program](https://lab.github.com/githubtraining/create-an-open-source-program)
 - [Developer Beginner](https://lab.github.com/curi-holdings/developer-beginner)
 
-## Video Courses
+## 🎥 Video Courses
 - [FreeCodeCamp Beginner's Course](https://www.youtube.com/watch?v=RGOj5yH7evk)
 - [Google Git Course Coursera](https://www.youtube.com/watch?v=PtBr0fpKyFg)
 - [How to Undo Mistakes With Git Using the Command Line](https://www.youtube.com/watch?v=lX9hsdsAeTk)
 
-## Conference Talks
+## 🎧 Conference Talks
 - [Core Git](https://www.youtube.com/watch?v=8dhZ9BXQgc4)
 - [Google Tech Talk: Linus Torvalds on git](https://www.youtube.com/watch?v=4XpnKHJAok8)
