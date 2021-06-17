@@ -59,6 +59,7 @@ Links to Labs where you can have a addons practise using GitHub
 - [GitHub Actions: Publish to GitHub Packages](https://lab.github.com/githubtraining/github-actions:-publish-to-github-packages)
 - [GitHub Actions: Write Docker container actions](https://lab.github.com/githubtraining/github-actions:-write-docker-container-actions)
 - [Getting started with GitHub Apps](https://lab.github.com/githubtraining/getting-started-with-github-apps)
+- [GitHub Project Management](https://www.youtube.com/watch?v=ff5cBkPg-bQ)
 - [Create an open source program](https://lab.github.com/githubtraining/create-an-open-source-program)
 - [Developer Beginner](https://lab.github.com/curi-holdings/developer-beginner)
 
@@ -70,6 +71,7 @@ Links to Labs where you can have a addons practise using GitHub
 ## 🌍 Open Source
 - [Guide to Open Source](https://www.youtube.com/watch?v=yzeVMecydCE&ab_channel=freeCodeCamp.orgfreeCodeCamp.org)
 - [Contributing to Open Source for the first time](https://www.youtube.com/watch?v=c6b6B9oN4Vg&ab_channel=AnujBhaiyaAnujBhaiyaVerified)
+- [How to Open Source Like a Pro](https://www.youtube.com/watch?v=MT6M_sqAuZo)
 
 ## 🎧 Conference Talks
 - [Core Git](https://www.youtube.com/watch?v=8dhZ9BXQgc4)
