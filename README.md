@@ -67,6 +67,10 @@ Links to Labs where you can have a addons practise using GitHub
 - [Google Git Course Coursera](https://www.youtube.com/watch?v=PtBr0fpKyFg)
 - [How to Undo Mistakes With Git Using the Command Line](https://www.youtube.com/watch?v=lX9hsdsAeTk)
 
+## 🌍 Open Source
+- [Guide to Open Source](https://www.youtube.com/watch?v=yzeVMecydCE&ab_channel=freeCodeCamp.orgfreeCodeCamp.org)
+- [Contributing to Open Source for the first time](https://www.youtube.com/watch?v=c6b6B9oN4Vg&ab_channel=AnujBhaiyaAnujBhaiyaVerified)
+
 ## 🎧 Conference Talks
 - [Core Git](https://www.youtube.com/watch?v=8dhZ9BXQgc4)
 - [Google Tech Talk: Linus Torvalds on git](https://www.youtube.com/watch?v=4XpnKHJAok8)
