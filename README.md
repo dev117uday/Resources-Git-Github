@@ -1,4 +1,8 @@
-# 📑 Resources Git and Github
+
+# Resources Git and Github
+<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+<!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 :wave: Hi, This is my open sourced roadmap/resource guide for Git. Please feel free to add resources or fix the broken links to make this repo more worthful.
 
@@ -66,3 +70,23 @@ Links to Labs where you can have a addons practise using GitHub
 ## 🎧 Conference Talks
 - [Core Git](https://www.youtube.com/watch?v=8dhZ9BXQgc4)
 - [Google Tech Talk: Linus Torvalds on git](https://www.youtube.com/watch?v=4XpnKHJAok8)
+
+## Contributors ✨
+
+Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tr>
+    <td align="center"><a href="https://uday-yadav.web.app/"><img src="https://avatars.githubusercontent.com/u/49728410?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Uday Yadav</b></sub></a><br /><a href="#tutorial-dev117uday" title="Tutorials">✅</a></td>
+  </tr>
+</table>
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+
+This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
