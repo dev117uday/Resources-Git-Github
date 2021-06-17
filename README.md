@@ -84,10 +84,8 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- markdownlint-disable -->
 <table>
   <tr>
-
-    <td align="center"><a href="https://uday-yadav.web.app/"><img src="https://avatars.githubusercontent.com/u/49728410?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Uday Yadav</b></sub></a><br /> <a href="#maintenance-dev117uday" title="Maintenance">🚧</a></td>
+    <td align="center"><a href="https://uday-yadav.web.app/"><img src="https://avatars.githubusercontent.com/u/49728410?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Uday Yadav</b></sub></a><br /><a href="#tutorial-dev117uday" title="Tutorials">✅</a></td>
     <td align="center"><a href="http://atharv.jairath@gmail.com"><img src="https://avatars.githubusercontent.com/u/54663702?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Atharv jairath</b></sub></a><br /><a href="#maintenance-atharvjairath" title="Maintenance">🚧</a></td>
-
   </tr>
 </table>
 
