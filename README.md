@@ -73,6 +73,11 @@ Links to Labs where you can have a addons practise using GitHub
 - [Contributing to Open Source for the first time](https://www.youtube.com/watch?v=c6b6B9oN4Vg&ab_channel=AnujBhaiyaAnujBhaiyaVerified)
 - [How to Open Source Like a Pro](https://www.youtube.com/watch?v=MT6M_sqAuZo)
 
+## 💡 Tips & Tricks
+- [Basic Git Commands](https://medium.com/swlh/git-tips-and-tricks-3c012cacbdcc)
+- [To Improve Workflow](https://codeburst.io/git-tips-and-tricks-to-improve-your-git-workflow-3f8652fa4a62)
+- [Cheatsheet](https://education.github.com/git-cheat-sheet-education.pdf)
+
 ## 🎧 Conference Talks
 - [Core Git](https://www.youtube.com/watch?v=8dhZ9BXQgc4)
 - [Google Tech Talk: Linus Torvalds on git](https://www.youtube.com/watch?v=4XpnKHJAok8)
