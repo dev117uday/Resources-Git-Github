@@ -1,7 +1,7 @@
 
 # Resources Git and Github
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-3-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-4-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 :wave: Hi, This is my open sourced roadmap/resource guide for Git. Please feel free to add resources or fix the broken links to make this repo more worthful.
@@ -94,6 +94,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://uday-yadav.web.app/"><img src="https://avatars.githubusercontent.com/u/49728410?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Uday Yadav</b></sub></a><br /><a href="#tutorial-dev117uday" title="Tutorials">✅</a></td>
     <td align="center"><a href="http://atharv.jairath@gmail.com"><img src="https://avatars.githubusercontent.com/u/54663702?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Atharv jairath</b></sub></a><br /><a href="#maintenance-atharvjairath" title="Maintenance">🚧</a></td>
     <td align="center"><a href="https://chaudharypraveen98.github.io/home/"><img src="https://avatars.githubusercontent.com/u/43620425?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Praveen Chaudhary</b></sub></a><br /><a href="#maintenance-chaudharypraveen98" title="Maintenance">🚧</a></td>
+    <td align="center"><a href="https://github.com/saatviknagpal"><img src="https://avatars.githubusercontent.com/u/61618767?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Saatvik Nagpal</b></sub></a><br /><a href="#maintenance-saatviknagpal" title="Maintenance">🚧</a></td>
   </tr>
 </table>
 
